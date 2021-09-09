@@ -119,9 +119,9 @@ export default {
      * @type {Array}
      */
     socialMedia: [
-      { name: 'Github', icon: 'github', link: 'https://github.com/cynicalpillow' },
+      { name: 'Github', icon: 'github', link: 'https://github.com/rueey' },
       { name: 'LinkedIn', icon: 'linkedin', link: 'https://linkedin.com/in/rui-li-994195144/' },
-      { name: 'Resume', icon: 'code', link: 'https://cynicalpillow.github.io/resume.pdf' }
+      { name: 'Resume', icon: 'code', link: 'https://rueey.github.io/resume.pdf' }
     ],
   },
 
@@ -137,7 +137,7 @@ export default {
        *    alexeykhr
        *  From url https://github.com/alexeykhr
        */
-      username: 'cynicalpillow',
+      username: 'rueey',
 
       /**
        * NOTICE: Set value in .env file
